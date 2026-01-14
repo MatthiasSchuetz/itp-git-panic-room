@@ -15,3 +15,7 @@
 
 ## Problem 4 - Datei wiederherstellen
 - Mit "git log --oneline" den commit remove old docs finden
+- Ein Commit früher gehen ("Stuff").
+- usage.md in einen Ordner auserhalb des Repos kopieren
+- Wieder auf den neuesten Stand wechseln
+- usage.md in das Repo kopieren
