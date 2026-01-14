@@ -33,7 +33,8 @@ Welche Datei(en) wurden im verdächtigen Commit verändert?
 Mit welche(n) Befehlen könnt ihr das herausfinden?
 (Antwort: Commit-ID, geänderte Datei(en), Kurzbeschreibung der Änderung)
 
-- es wurde Calculator.java auf CalculatorText.java umbenannt und verschoben und eine Zeile geändert
+- es wurden Calculator.java und CalculatorText.java verändert
+- Wurde beides umbennannt und Calculator.java wurde verändert
 
 ## #4 - Wer hat die entscheidende Stelle verändert?
 Welche Datei ist besonders relevant und warum?

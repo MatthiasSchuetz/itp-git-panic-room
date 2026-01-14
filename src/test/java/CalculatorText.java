@@ -1,7 +1,5 @@
-package com.example;
-
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
 class CalculatorTest {
     @Test
@@ -12,5 +10,10 @@ class CalculatorTest {
     @Test
     void divide_works() {
         assertEquals(5, Calculator.divide(10, 2));
+    }
+
+    @Test
+    void add_works2() {
+        assertEquals(27, Calculator.add(7, 20));
     }
 }
