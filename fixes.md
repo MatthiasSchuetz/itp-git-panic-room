@@ -12,3 +12,6 @@
 ## Problem 3 - Repository aufräumen
 - Datei: debug.log
 - es steht keine wichtige Information drinnen
+
+## Problem 4 - Datei wiederherstellen
+- Mit "git log --oneline" den commit remove old docs finden
